@@ -9,3 +9,7 @@ https://palakpatil.github.io/LGMVIP-Web-Task/Task%201%20TO%20DO%20LIST/TODO.html
 
 https://palakpatil.github.io/LGMVIP-Web-Task/Task%203%20REGISTRATION%20FORM/regi.html
 
+#TASK 4 CALCULATOR
+
+https://palakpatil.github.io/LGMVIP-Web-Task/Task%204%20CALCULATOR/calculator.html
+
